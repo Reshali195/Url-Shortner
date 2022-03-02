@@ -4,7 +4,7 @@ you can symply redirect to your website without typing url again and again
 
 
 ### Deploy it to Glitch
-[https://feather-option.glitch.me/](https://url-shortener-fccmicroservice.glitch.me/)
+[https://url-shortener-fccmicroservice.glitch.me//](https://url-shortener-fccmicroservice.glitch.me/)
 
 ### User Story
 + I can POST a URL to [project_url]/api/shorturl/new and I will receive a shortened URL in the JSON response. Example : {"original_url":"www.google.com","short_url":1}
